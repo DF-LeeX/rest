@@ -10,8 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "ttt.cpp",
-        "shims.d.ts"
+        "test.cpp"
     ],
     "testFiles": [
         "test.ts"

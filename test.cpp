@@ -1,6 +1,6 @@
 #include "pxt.h"
 
-
+using namespace pxt;
 /**
  * Provides access to basic micro:bit functionality.
  */
